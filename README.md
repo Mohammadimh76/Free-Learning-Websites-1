@@ -8,7 +8,7 @@ List of free online courses
 ## Websites
 
 * [Education Portal](http://education-portal.com/) - education-portal.com
-* [Free video lectures](http://http://www.learnerstv.com/) - learnerstv.com
+* [Free video lectures](http://www.learnerstv.com/) - learnerstv.com
 * [MIT OpenCourseWare](http://ocw.mit.edu/) - ocw.mit.edu
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - microsoftvirtualacademy.com
 * [Online College Courses](http://www.onlinecourses.com/) - onlinecourses.com
