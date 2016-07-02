@@ -71,12 +71,12 @@ List of free online courses
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
 ## Persian / Farsi websites
-https://www.sokanacademy.com/
+
 * [maktabkhooneh](http://maktabkhooneh.org/) - maktabkhooneh.org
 * [takhtesefid](http://takhtesefid.org/) - takhtesefid.org
 * [daneshabad](http://daneshabad.com/) - daneshabad.com
 * [darsnameh](http://www.darsnameh.com/) - darsnameh.com
-* [faradars](http://faradars.org/)
+* [faradars](http://faradars.org/) - faradars.org
 * [.sokanacademy](https://www.sokanacademy.com/) - sokanacademy.com
 * [farsi khanacademy](https://fa.khanacademy.org/) - fa.khanacademy.org
 * [kelasedars](http://kelasedars.org/) - kelasedars.org
