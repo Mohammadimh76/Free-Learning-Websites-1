@@ -77,7 +77,8 @@ List of free online courses
 * [daneshabad](http://daneshabad.com/) - daneshabad.com
 * [darsnameh](http://www.darsnameh.com/) - darsnameh.com
 * [faradars](http://faradars.org/) - faradars.org
-* [.sokanacademy](https://www.sokanacademy.com/) - sokanacademy.com
+* [sokanacademy](https://www.sokanacademy.com/) - sokanacademy.com
+* [faranesh](https://faranesh.com/) - faranesh.com
 * [farsi khanacademy](https://fa.khanacademy.org/) - fa.khanacademy.org
 * [kelasedars](http://kelasedars.org/) - kelasedars.org
 * [mit-ocw.sbu.ac.ir](http://mit-ocw.sbu.ac.ir/) - mit-ocw.sbu.ac.ir
