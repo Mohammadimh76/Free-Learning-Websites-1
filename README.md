@@ -27,8 +27,8 @@ List of free online courses
 * [udacity](https://www.udacity.com/) - udacity.com
 * [udemy](https://www.udemy.com/courses/) - udemy.com/courses
 * [mongodb](https://university.mongodb.com/) - Free Online MongoDB Training
-* [tutorialspoint](http://www.tutorialspoint.com/index.htm)
-* [alison](http://alison.com/learn/Programming)
+* [tutorialspoint](http://www.tutorialspoint.com/index.htm) - tutorialspoint.com
+* [alison](http://alison.com/learn/Programming)- alison.com
 * [open source society university](https://ossu.firebaseapp.com/) - ossu.firebaseapp.com
 * [ Acadoodle](https://www.acadoodle.com/) - acadoodle.com
 * [ Experfy](https://www.experfy.com/) - experfy.com
