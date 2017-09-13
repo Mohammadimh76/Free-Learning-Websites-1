@@ -33,6 +33,7 @@ List of free online courses
 * [ Acadoodle](https://www.acadoodle.com/) - acadoodle.com
 * [ Experfy](https://www.experfy.com/) - experfy.com
 * [ Datacamp](https://www.datacamp.com/) - datacamp.com
+* [ FUN_MOOC](https://www.fun-mooc.fr/) - fun-mooc.fr
 
 ## Class Central
 
