@@ -7,6 +7,7 @@ List of free online courses
 
 ## Websites
 
+* [Go Engineer](http://www.goengineer.com/) - goengineer.com
 * [Education Portal](http://education-portal.com/) - education-portal.com
 * [Free video lectures](http://www.learnerstv.com/) - learnerstv.com
 * [MIT OpenCourseWare](http://ocw.mit.edu/) - ocw.mit.edu
